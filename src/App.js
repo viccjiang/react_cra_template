@@ -28,7 +28,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>在六角學習 React App</p>
+        <p>React App</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum aspernatur accusantium culpa ipsum, deleniti cum optio sunt reprehenderit magnam nam. Voluptas, temporibus cupiditate nobis consequatur nesciunt earum perspiciatis consequuntur, dignissimos rerum adipisci ex vitae reprehenderit amet dolore asperiores eum, atque architecto eaque tempore veritatis explicabo voluptatibus sunt enim? Quo, corrupti.</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
